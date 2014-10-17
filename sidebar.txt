@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wab:home|Door43 (wab)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wab|d43-wab repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wab/archive/master.zip|d43-wab.zip]]
+
+**Recent Changes**
+{{changes>ns = wab}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wab|Ethnologue data]]
+
